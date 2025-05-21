@@ -1,5 +1,11 @@
 ## Hi, I'm Fikir 👋
 
+🔭 Leveling up my front-end skills with Scrimba 
+🌱 Actively looking to join a development team that challenges and helps me grow  
+⚡ Highly motivated and passionate about building with technology  
+
+
+[![fikir-dev's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
   
 <!--
